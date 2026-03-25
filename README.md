@@ -14,12 +14,14 @@ This project produces the figures appearing on the above-mentioned article. More
 - OpenCV
 - Python (for matplotlib-cpp, optional)
 
-## Build
+## Run
+./unconventional_figures
 
+## Build
+```bash
 mkdir build
 cd build
 cmake ..
-cmake --build .
+cmake --build
 
-## Run
-./unconventional_figures
+
