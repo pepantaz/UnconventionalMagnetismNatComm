@@ -21,3 +21,6 @@ mkdir build
 cd build
 cmake ..
 cmake --build .
+
+## Run
+./unconventional_figures
