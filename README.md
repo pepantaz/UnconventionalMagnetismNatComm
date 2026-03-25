@@ -16,7 +16,6 @@ This project produces the figures appearing on the above-mentioned article. More
 
 ## Build
 
-```bash
 mkdir build
 cd build
 cmake ..
